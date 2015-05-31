@@ -1,0 +1,8 @@
+{
+	"checkstyle":
+	{
+		"git_path":"git@github.com:jcxavier/duell-checkstyle.git",
+		"library_path": "checkstyle",
+		"destination_path": "checkstyle"
+	}
+}
